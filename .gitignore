@@ -4,3 +4,8 @@ node_modules/
 !.env.example
 dist/
 build/
+target/
+.mvn/
+*.class
+.env
+application.properties
